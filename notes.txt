@@ -1,2 +1,1 @@
 Git learning is fun
-I am mastering git step by step
